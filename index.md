@@ -1,1 +1,1 @@
-- [Zelenec chochlatý](./plants/zelenec-chocholaty.md)
+- [Zelenec chochlatý](./plants/zelenec-chochlaty.md)
